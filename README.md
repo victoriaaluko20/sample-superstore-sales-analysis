@@ -97,11 +97,11 @@ The dataset includes:
 
 ### Dashboard Overview
 
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview](Dashboard%20Overview.png)
 
 ### Profitability Analysis
 
-![Dashboard Profitability](Dashboard_Profitability.png)
+![Dashboard Profitability](Dashboard%20Profitability.png)
 
 ## Project Deliverables
 
