@@ -91,15 +91,6 @@ The dataset includes:
 - **Review underperforming products:** Assess products with recurring losses or very low margins.
 - **Leverage seasonal demand:** Align inventory planning and promotional activities with months of stronger sales.
 
-## Dashboard Preview
-
-### Dashboard Overview
-
-![Dashboard Overview](Dashboard/Dashboard_Overview.png)
-
-### Profitability Analysis
-
-![Dashboard Profitability](Dashboard/Dashboard_Profitability.png)
 
 ## Project Deliverables
 
