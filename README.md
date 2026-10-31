@@ -10,15 +10,14 @@ Using Microsoft Excel, I conducted an end-to-end analysis covering overall busin
 
 The analysis seeks to answer the following business questions:
 
-1. What is the overall sales and profit performance of the business?
-2. How have sales and profit changed over the years?
-3. Which categories generate the most profit?
-4. Which sub-categories generate losses?
-5. Which regions perform best and worst in terms of profitability?
-6. Which customer segments contribute most to sales and profit?
-7. How do discounts affect profitability?
-8. Which areas should management investigate first?
-
+1.	What is the overall sales and profit performance of the business?
+2.	How have sales and profit changed over the years?
+3.	Which categories generate the most profit?
+4.	Which sub-categories generate losses?
+5.	Which regions perform best and worst in terms of profitability?
+6.	Which customer segments contribute most to sales and profit?
+7.	How do discounts affect profitability?
+8.	Which areas should management investigate first?
 
 
 ## Tools and Techniques
@@ -82,6 +81,9 @@ The dataset includes:
 
 8. **Discount Impact:** Products discounted by more than 20% collectively generated losses of $135,376, while undiscounted sales recorded a 29.5% profit margin.
 
+9. **Product Profitability:** 301 out of 1,862 products generated an aggregate loss of $76,721. Additionally, 60 high-selling products had profit margins below 5%.
+
+10. **State Performance:** Texas, Ohio, Pennsylvania and Illinois recorded combined losses of $70,869.
 
 ## Business Recommendations
 
@@ -91,6 +93,15 @@ The dataset includes:
 - **Review underperforming products:** Assess products with recurring losses or very low margins.
 - **Leverage seasonal demand:** Align inventory planning and promotional activities with months of stronger sales.
 
+## Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](Dashboard_Overview.png)
+
+### Profitability Analysis
+
+![Dashboard Profitability](Dashboard_Profitability.png)
 
 ## Project Deliverables
 
